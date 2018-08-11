@@ -1,0 +1,12 @@
+
+#navbarcss {
+    color: blueviolet
+}
+
+body{
+background: url("images/concrete_seamless.png")!important;
+}
+
+.border-5 {
+    border-width:5px !important;
+}
